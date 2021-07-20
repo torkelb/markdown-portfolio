@@ -1,1 +1,5 @@
-Replace this with your name, and include a header.
+# Serious stuff reside here
+### Name
+Torkel
+### Computer
+Old Acer
